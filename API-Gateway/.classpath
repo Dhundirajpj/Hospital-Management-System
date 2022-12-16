@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="API-Gateway/src/main/java"/>
+	<classpathentry kind="src" path="API-Gateway/src/test/java"/>
+	<classpathentry exported="true" kind="lib" path="API-Gateway/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sshrenee/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/3.0.0/spring-boot-autoconfigure-3.0.0.jar" sourcepath="C:/Users/sshrenee/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/3.0.0/spring-boot-autoconfigure-3.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot-autoconfigure"/>
+			<attribute name="maven.version" value="3.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sshrenee/.m2/repository/org/springframework/boot/spring-boot/3.0.0/spring-boot-3.0.0.jar" sourcepath="C:/Users/sshrenee/.m2/repository/org/springframework/boot/spring-boot/3.0.0/spring-boot-3.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot"/>
+			<attribute name="maven.version" value="3.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="API-Gateway/target/classes"/>
+</classpath>
